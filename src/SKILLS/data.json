@@ -1,0 +1,102 @@
+[
+
+
+  {
+
+     "id" : 1,
+     "img" : "./Images/html.png",
+     "title" : "HTML"
+
+  },
+
+  {
+
+    "id" : 2,
+    "img" : "./Images/xml.png",
+    "title" : "XML"
+
+ },
+
+  {
+
+     "id" : 3,
+     "img" : "./Images/css.png",
+     "title" : "CSS"
+
+  },
+
+  {
+
+    "id" : 4,
+    "img" : "./Images/bootstrap.png",
+    "title" : "Bootstrap"
+
+ },
+
+ {
+
+  "id" : 5,
+  "img" : "./Images/tailwind.png",
+  "title" : "Tailwind CSS"
+
+},
+
+{
+
+  "id" : 6,
+  "img" : "./Images/js.png",
+  "title" : "JavaScript"
+
+},
+
+{
+
+  "id" : 7,
+  "img" : "./Images/react.png",
+  "title" : "React.js"
+
+},
+
+{
+
+  "id" : 8,
+  "img" : "./Images/next.png",
+  "title" : "Next.js"
+
+},
+
+{
+
+ "id" : 9,
+ "img" : "./Images/php.png",
+ "title" : "PHP"
+
+},
+
+{
+
+"id" : 10,
+"img" : "./Images/mysql.png",
+"title" : "MySQL"
+
+},
+
+{
+
+"id" : 11,
+"img" : "./Images/c.png",
+"title" : "C"
+
+},
+
+{
+
+  "id" : 11,
+  "img" : "./Images/java.png",
+  "title" : "Java"
+  
+  }
+
+  
+
+]
