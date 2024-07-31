@@ -19,7 +19,7 @@ const About = () => {
 
                 <p className='text-white text-[20px] text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'>
           
-          My name is Abdullah Shahed from Bangladesh. I have completed my graduation at Green university of Bangladesh with BSc in CSE. I am passionate Web Developer with experience in building modern and responsive websites. I specialize in Front-end development as well as Back-end development. I have also Web Designer (UI/UX Designer). I have developed 20+ projects. I am a punctual, dedicated on my work, Obey rule, Enthusiastic , Career minded and open minded, capable of solving comprehensive problems, talkative and having good communication skills.
+          My name is Abdullah Shahed from Bangladesh. I have completed my graduation at Green university of Bangladesh with BSc in CSE. I am passionate Web Developer with experience in building modern and responsive websites. I specialize in Front-end development as well as Back-end development. I have also Web Designing skills (UI/UX Designer). I have developed 20+ projects. I am a punctual, dedicated on my work, Obey rule, Enthusiastic , Career minded and open minded, capable of solving comprehensive problems, talkative and having good communication skills.
           {
 
             toggle && <span> To be associated with an organization which provides challenging work environmental and proving my excellence at every step is my long term career goal. Highly efficient and passionate for learning new concept, ideas, techniques. To reach the heights in my career with proven expertise.</span>
