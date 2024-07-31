@@ -23,7 +23,7 @@ const Experience = () => {
 
                         <p className='text-white text-[20px] font-bold text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'> Jr. Web Developer</p>
                         <p className='text-white text-[17px] text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'> NextTech Limited Bangladesh</p>
-                        <p className='text-white text-[17px] text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'>Nov 2023 - Jan 2024</p>
+                        <p className='text-white text-[17px] text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'>Nov 2023 - Feb 2024</p>
                         
                         <div className='flex items-center gap-2 text-white text-[14px] font-semibold mt-2'>
                      
