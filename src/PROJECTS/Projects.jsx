@@ -12,7 +12,7 @@ const Projects = () => {
     { id: 5, title: 'Google Classroom Website', image: './Images/p5.png', github: "https://github.com/shahed32156/google_classroom_website" },
     { id: 6, title: 'Food Delivery Website', image: './Images/p6.png', github: "https://github.com/shahed32156/PROMIXCO-Task-2-Home-page-" },
     { id: 7, title: 'Bongo Website', image: './Images/p7.png', github: "https://github.com/shahed32156/Bongo-website" },
-    { id: 8, title: 'Grocery Shop Website', image: './Images/p8.png', github: "https://github.com/shahed32156/nike-shoes-store" },
+    { id: 8, title: 'Nike Shoes Website', image: './Images/p8.png', github: "https://github.com/shahed32156/nike-shoes-store" },
     { id: 9, title: 'Music Website', image: './Images/p9.png', github: "https://github.com/shahed32156/Music-website" }
   ];
 
