@@ -9,7 +9,7 @@ const {img, title} = props;
 
     <a className='cursor-default'>
 
-            <div className='w-full sm:px-0 sm:h-[152px] sm:w-[230px] pt-2 justify-center shadow-[#bc2bcc] items-center border-[1px] rounded-lg shadow-md md:hover:transition duration-500 md:hover:duration-500 md:hover:scale-110 border-[#e473f0] mx-auto'>
+            <div className='w-full sm:px-0 sm:h-[152px] pt-2 justify-center shadow-[#bc2bcc] items-center border-[1px] rounded-lg shadow-md md:hover:transition duration-500 md:hover:duration-500 md:hover:scale-110 border-[#e473f0] mx-auto'>
                     
                     
 
