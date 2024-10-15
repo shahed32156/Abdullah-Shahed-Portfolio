@@ -13,13 +13,13 @@ const About = () => {
 
     </div>
 
-    <div className='mt-10 mx-5 md:mx-8 xl:mx-24 flex flex-col gap-5 md:flex-row justify-between items-center'>
+    <div className='mt-10 mx-5 md:mx-8 xl:mx-24 flex flex-col gap-5 md:gap-10 lg:gap-20 md:flex-row justify-center items-center'>
 
        <div className='flex flex-col gap-4'>
 
                 <p className='text-white text-[20px] text-justify md:w-[400px] lg:w-[480px] xl:w-[700px]'>
           
-          My name is Abdullah Shahed from Bangladesh. I have completed my graduation at Green university of Bangladesh with BSc in CSE. I am passionate Web Developer with experience in building modern and responsive websites. I specialize in Front-end development as well as Back-end development. I have also Web Designing skills (UI/UX Designer). I have developed 20+ projects. I am a punctual, dedicated on my work, Obey rule, Enthusiastic , Career minded and open minded, capable of solving comprehensive problems, talkative and having good communication skills.
+          My name is Abdullah Shahed from Bangladesh. I have completed my graduation at Green university of Bangladesh with BSc in CSE. I am passionate Web Developer with experience in building modern and responsive websites. I specialize in Front-end development as well as Back-end development. I have also Web Designer (UI/UX Designer). I have developed 20+ projects. I am a punctual, dedicated on my work, Obey rule, Enthusiastic , Career minded and open minded, capable of solving comprehensive problems, talkative and having good communication skills.
           {
 
             toggle && <span> To be associated with an organization which provides challenging work environmental and proving my excellence at every step is my long term career goal. Highly efficient and passionate for learning new concept, ideas, techniques. To reach the heights in my career with proven expertise.</span>
@@ -39,7 +39,7 @@ const About = () => {
 
        <div>
 
-          <img className='h-[200px] w-[300px] sm:h-[280px] sm:w-[380px] md:h-[250px] md:w-[350px] lg:h-[260px] lg:w-[360px] xl:h-[320px] xl:w-[420px]' src="./Images/about.png" alt="" />
+          <img className='md:h-[250px] md:w-[350px] lg:h-[260px] lg:w-[360px] xl:h-[320px] xl:w-[420px]' src="./Images/about.png" alt="" />
 
        </div>
 
